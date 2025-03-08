@@ -1,15 +1,11 @@
-# 🚀 Next.js Web Extension
+# 🌐 Social Website – Built with Next.js
 
-This is a **Next.js** project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). It provides a solid foundation for building modern web applications.
+This is a modern **social networking website** built using **Next.js**. It provides an interactive platform for users to connect, share, and engage with content.
 
 ## 📦 Getting Started
 
-First, install dependencies:
-
+### **1️⃣ Clone the Repository**
 ```bash
-npm install
-# or
-yarn install
-# or
-pnpm install
+git clone https://github.com/blazethunderstorm/web-extension.git
+cd web-extension
 
