@@ -6,6 +6,6 @@ This is a modern **social networking website** built using **Next.js**. It provi
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/blazethunderstorm/web-extension.git
-cd web-extension
+git clone https://github.com/blazethunderstorm/social.git
+cd social
 
